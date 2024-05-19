@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("2020314747 test.c\n");
+	printf("nagunwoo test.c\n");
 	return 0;
 }
